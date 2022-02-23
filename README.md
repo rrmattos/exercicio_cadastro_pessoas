@@ -1,5 +1,6 @@
 # exercicio_cadastro_pessoas
 Teste pedido por empresa para testar conhecimentos.
+
 ------- Informações Técnicas -------
 - Projeto criado em Delphi 10.3 (Tokyo);
 - Banco utilizado: MySQL;
